@@ -8,6 +8,8 @@ navigate to the exit. Employs a search algorithm (e.g., A*, Dijkstra’s, BFS, D
 - Upon completion of each run, the program should output the steps taken by the agent, the path chosen, and the time and space complexity of the search.
 - Document your choice of search algorithm and justify its appropriateness for this problem.
 - Include error handling to manage instances where the puzzle is unsolvable.
+- You can use any programming language but your program should be executable just after following the instructions you provided.
+- Assume that the execution environment is a terminal on Ubuntu 22.04 without any GUI support.
 
 
 ### Deliverables:
